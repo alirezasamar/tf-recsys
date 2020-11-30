@@ -1,2 +1,2 @@
-# tf-recsys
+# TF RecSys
 TensorFlow-based Recommendation System
